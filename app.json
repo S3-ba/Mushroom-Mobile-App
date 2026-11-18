@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "Grzybobranie",
+    "slug": "grzybobranie",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "grzybobranie",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#141906",
+    "platforms": ["android", "ios"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "dev.grzybobranie.app"
+    },
+    "android": {
+      "package": "dev.grzybobranie.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#56640F"
+      }
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#141906"
+        }
+      ],
+      [
+        "expo-camera",
+        { "cameraPermission": "Aplikacja używa aparatu, aby rozpoznawać grzyby i dodawać zdjęcia do zbiorów." }
+      ],
+      [
+        "expo-image-picker",
+        { "photosPermission": "Aplikacja potrzebuje dostępu do zdjęć, aby rozpoznawać grzyby i dodawać je do zbiorów." }
+      ],
+      [
+        "expo-location",
+        { "locationWhenInUsePermission": "Lokalizacja służy do zapisywania miejsc znalezisk i pokazywania Cię na mapie." }
+      ]
+    ]
+  }
+}
