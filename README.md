@@ -1,9 +1,9 @@
-# 🍄 Grzybobranie
+# Grzybobranie
 
 Mobilna aplikacja grzybiarska napisana w **React Native + Expo (SDK 58)** — projekt zadania rekrutacyjnego Software Mansion.
 Atlas grzybów z modelami 3D, rozpoznawanie ze zdjęcia, mapa obserwacji, dziennik zbiorów, forum, poradnik i quiz — a wszystko tak, żeby dało się z tego korzystać **w lesie, bez zasięgu**.
 
-> ⚠️ Aplikacja ma charakter edukacyjny. Rozpoznawanie ze zdjęcia to tylko podpowiedź — **nigdy nie jedz grzyba wyłącznie na tej podstawie**. Wątpliwe okazy pokaż grzyboznawcy (np. w lokalnym sanepidzie). Przy podejrzeniu zatrucia dzwoń na 112.
+> Aplikacja ma charakter edukacyjny. Rozpoznawanie ze zdjęcia to tylko podpowiedź — **nigdy nie jedz grzyba wyłącznie na tej podstawie**. Wątpliwe okazy pokaż grzyboznawcy (np. w lokalnym sanepidzie). Przy podejrzeniu zatrucia dzwoń na 112.
 
 ## Zrzuty ekranu i wideo
 
