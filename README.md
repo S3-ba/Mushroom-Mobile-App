@@ -7,15 +7,19 @@ Atlas grzybów z modelami 3D, rozpoznawanie ze zdjęcia, mapa obserwacji, dzienn
 
 ## Zrzuty ekranu i wideo
 
-**[do uzupełnienia: nagranie GIF/MP4 lub zrzuty ekranu z folderu `docs/screenshots`]**
 
-| Menu | Atlas | Szczegóły + 3D | Rozpoznawanie |
-| --- | --- | --- | --- |
-| <img width="1080" height="2340" alt="menu" src="https://github.com/user-attachments/assets/e2bffcad-64c6-484e-a6e4-b1ec63b8dc63" />
- | <img width="1080" height="2340" alt="atlas" src="https://github.com/user-attachments/assets/386307b9-3f84-4ccb-95c9-ff369a56c3d0" />
- | <img width="1080" height="2340" alt="detail" src="https://github.com/user-attachments/assets/d285c083-41f2-4f7c-baea-ee171c699f73" />
- | <img width="1080" height="2340" alt="recognize" src="https://github.com/user-attachments/assets/23dce7a9-91cd-4889-8df3-c79201350eb9" />
- |
+**Menu**
+<img width="540" height="1170" alt="menu" src="https://github.com/user-attachments/assets/e2bffcad-64c6-484e-a6e4-b1ec63b8dc63" />
+
+**Atlas**
+<img width="540" height="1170" alt="atlas" src="https://github.com/user-attachments/assets/386307b9-3f84-4ccb-95c9-ff369a56c3d0" />
+
+**Szczegóły + 3D**
+<img width="540" height="1170" alt="detail" src="https://github.com/user-attachments/assets/d285c083-41f2-4f7c-baea-ee171c699f73" />
+
+**Rozpoznawanie**
+<img width="540" height="1170" alt="recognize" src="https://github.com/user-attachments/assets/23dce7a9-91cd-4889-8df3-c79201350eb9" />
+ 
 
 ## Platforma i testowanie
 
