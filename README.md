@@ -11,13 +11,17 @@ Atlas grzybów z modelami 3D, rozpoznawanie ze zdjęcia, mapa obserwacji, dzienn
 
 | Menu | Atlas | Szczegóły + 3D | Rozpoznawanie |
 | --- | --- | --- | --- |
-| `docs/screenshots/home.png` | `docs/screenshots/atlas.png` | `docs/screenshots/detail.png` | `docs/screenshots/recognize.png` |
+| <img width="1080" height="2340" alt="menu" src="https://github.com/user-attachments/assets/e2bffcad-64c6-484e-a6e4-b1ec63b8dc63" />
+ | <img width="1080" height="2340" alt="atlas" src="https://github.com/user-attachments/assets/386307b9-3f84-4ccb-95c9-ff369a56c3d0" />
+ | <img width="1080" height="2340" alt="detail" src="https://github.com/user-attachments/assets/d285c083-41f2-4f7c-baea-ee171c699f73" />
+ | <img width="1080" height="2340" alt="recognize" src="https://github.com/user-attachments/assets/23dce7a9-91cd-4889-8df3-c79201350eb9" />
+ |
 
 ## Platforma i testowanie
 
-- **Przygotowana głównie pod:** Android (emulator) — **[do uzupełnienia po testach]**
-- **Testowane na fizycznym urządzeniu:** **[do uzupełnienia: tak / nie — jakie urządzenie]**
-- iOS: kod jest wieloplatformowy (Expo), ale **[do uzupełnienia: czy testowano]**
+- **Przygotowana głównie pod:** **Android (emulator oraz fizyczne urządzenie)**
+- **Testowane na fizycznym urządzeniu:** **Tak - Samsung S26 Ultra (Android 17, OneUI9)**
+- **iOS:** **kod jest wieloplatformowy (Expo), lecz nie zostały przeprowadzone testy**
 
 ## Uruchomienie
 
