@@ -1,24 +1,27 @@
 # Grzybobranie
 
-Mobilna aplikacja grzybiarska napisana w **React Native + Expo (SDK 58)** — projekt zadania rekrutacyjnego Software Mansion.
+Mobilna aplikacja grzybiarska napisana w **React Native + Expo (SDK 58),**
 Atlas grzybów z modelami 3D, rozpoznawanie ze zdjęcia, mapa obserwacji, dziennik zbiorów, forum, poradnik i quiz — a wszystko tak, żeby dało się z tego korzystać **w lesie, bez zasięgu**.
 
 > Aplikacja ma charakter edukacyjny. Rozpoznawanie ze zdjęcia to tylko podpowiedź — **nigdy nie jedz grzyba wyłącznie na tej podstawie**. Wątpliwe okazy pokaż grzyboznawcy (np. w lokalnym sanepidzie). Przy podejrzeniu zatrucia dzwoń na 112.
 
-## Zrzuty ekranu i wideo
-
+## Zrzuty ekranu
 
 **Menu**
-<img width="540" height="1170" alt="menu" src="https://github.com/user-attachments/assets/e2bffcad-64c6-484e-a6e4-b1ec63b8dc63" />
+
+<img width="270" height="585" alt="menu" src="https://github.com/user-attachments/assets/e2bffcad-64c6-484e-a6e4-b1ec63b8dc63" />
 
 **Atlas**
-<img width="540" height="1170" alt="atlas" src="https://github.com/user-attachments/assets/386307b9-3f84-4ccb-95c9-ff369a56c3d0" />
+
+<img width="270" height="585" alt="atlas" src="https://github.com/user-attachments/assets/386307b9-3f84-4ccb-95c9-ff369a56c3d0" />
 
 **Szczegóły + 3D**
-<img width="540" height="1170" alt="detail" src="https://github.com/user-attachments/assets/d285c083-41f2-4f7c-baea-ee171c699f73" />
+
+<img width="270" height="585" alt="detail" src="https://github.com/user-attachments/assets/d285c083-41f2-4f7c-baea-ee171c699f73" />
 
 **Rozpoznawanie**
-<img width="540" height="1170" alt="recognize" src="https://github.com/user-attachments/assets/23dce7a9-91cd-4889-8df3-c79201350eb9" />
+
+<img width="270" height="585" alt="recognize" src="https://github.com/user-attachments/assets/23dce7a9-91cd-4889-8df3-c79201350eb9" />
  
 
 ## Platforma i testowanie
@@ -40,7 +43,7 @@ npx expo start --android    # Expo CLI doinstaluje Expo Go (SDK 58) na emulatorz
 
 - Przy pierwszym uruchomieniu podaj internet: aplikacja pobierze zdjęcia z Wikipedii (opcjonalnie — przycisk „Pobierz” w Atlasie zapisuje je na urządzeniu).
 - `npm test` — testy logiki (filtry, ranking rozpoznawania na syntetycznych obrazach, statystyki, quiz, spójność bazy gatunków).
-- `npm run typecheck` — sprawdzenie typów, `npx expo-doctor` — diagnostyka projektu.
+- `npm run typecheck` — sprawdzenie typów, `npx expo-doctor` — diagnostyka u.
 - Development build (opcjonalnie): `npx expo run:android`. Mapa w buildzie natywnym wymaga klucza Google Maps (`android.config.googleMaps.apiKey` w `app.json`); w Expo Go działa bez konfiguracji.
 
 ## Funkcje
